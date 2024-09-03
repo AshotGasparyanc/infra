@@ -1,9 +1,5 @@
 ---
-- hosts: web
-  roles:
-    - {role : "common"}
-
 - hosts: db
   roles:
     - {role : "common"}
-    - {role : "hostname"}
+    - {role : "swaptrasher"}

@@ -1,0 +1,5 @@
+swap_size: 0.5G
+hostname: "prod"
+region: "Asia"
+city: "Yerevan"
+swapfile_path: "/swapfile"
