@@ -3,3 +3,30 @@ hostname: "prod"
 region: "Asia"
 city: "Yerevan"
 swapfile_path: "/swapfile"
+
+packages:
+  - git
+  - htop
+  - net-tools
+  - wget
+  - zip
+  - unzip
+  - telnet
+  - screen
+  - rsync
+  - psmisc
+  - strace
+  - atop
+  - sysstat
+  - iotop
+  - dstat
+  - lsof
+  - curl
+  - jq
+  - pv
+  - ncdu
+  - nethogs
+  - gnupg2
+  - apt-transport-https
+  - ca-certificates
+  - software-properties-common

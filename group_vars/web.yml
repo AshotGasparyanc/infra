@@ -2,3 +2,30 @@ swap_size: 0.4G
 hostname: "stage"
 region: "Asia"
 city: "Yerevan"
+
+packages:
+  - git
+  - htop
+  - net-tools
+  - wget
+  - zip
+  - unzip
+  - telnet
+  - mc
+  - screen
+  - rsync
+  - psmisc
+  - strace
+  - sysstat
+  - iotop
+  - dstat
+  - lsof
+  - curl
+  - jq
+  - pv
+  - ncdu
+  - nethogs
+  - gnupg2
+  - apt-transport-https
+  - ca-certificates
+  - software-properties-common
